@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../os/inc/adm_string.h
+adm_typedefs.h
+-
+
+../os/inc/adm_typedefs.h
+
+/home/liming/http_test/os/src/adm_os_stringstream.cpp
+string
+-
+sstream
+-
+adm_string.h
+/home/liming/http_test/os/src/adm_string.h
+

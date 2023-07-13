@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/httpdemo.dir/httpdemo.c.o  -o httpdemo  os/libadmos.a cjson/libcjson.a ../curl/lib/x86/libcurl-d.a ../openssl/lib/x86/libssl-static.a ../openssl/lib/x86/libcrypto-static.a -lpthread -lpthread -lrt -ldl 
